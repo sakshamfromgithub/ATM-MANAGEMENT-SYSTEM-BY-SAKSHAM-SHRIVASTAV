@@ -1,10 +1,9 @@
 # ATM-MANAGEMENT-SYSTEM-BY-SAKSHAM-SHRIVASTAV
 Welcome to Atm Management system created by SAKSHAM SHRIVASTAV Using python.
 this is my first reposetry and project. i'm learning python from codewithharry 100 days of code and i have been completed this today 1 may 2024 and i'm take help from this websites ```docs.python.org``` this  is very helpfull  website. 
-look my atm-management-system repo and run this in your system ```#WELCOME TO ATM MANAGEMENT SYSTEM CREATED BY SAKSHAM SHRIVASTAV 
-
+look my atm-management-system repo and run this in your system 
+```#WELCOME TO ATM MANAGEMENT SYSTEM CREATED BY SAKSHAM SHRIVASTAV 
 import time
-
 def title():
  try:
   print("WELCOME TO ATM MANAGEMENT SYSTEM CREATED BY SAKSHAM SHRIVASTAV\n ")
